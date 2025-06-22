@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋 I'm Abdullah Bawazeer</h1>
 
-<p align="center">
-🎓 Final-year Information Technology student specializing in <strong>Back-End Development with .NET Core</strong>, and experienced in <strong>Full-Stack Desktop Application Development using .NET Framework</strong>. Strong skills in database programming, software architecture, and building real-world systems.
-
+🎓 I'm a final-year IT student with a strong focus on Back-End Development using .NET Core (Web API), and Full-Stack Desktop Application Development using .NET Framework. Skilled in SQL Server, database design, and clean application architecture with ADO.NET, Entity Framework, and LINQ.
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year student majoring in **Information Technology**
-- 💻 Specialized in **Full-Stack Desktop Development** using **.NET Framework**
-- 🧠 Strong skills in **Data Structures** and **Algorithms**
-- 🏗️ Experienced in applying **Three-Layer Architecture** in Windows Forms projects
-- 🗃️ Skilled in **Database Design** and **SQL Server Programming**
-- 🧩 Worked with **Entity Framework**, **ADO.NET**, and **LINQ**
-- 🌐 Also experienced in **ASP.NET Core MVC** and **Web API** for building web applications
+- ⚙️ Specialized in **Back-End Development** using **.NET Core**, with hands-on experience in building RESTful APIs using **ASP.NET Core Web API**
+- 🧱 Skilled in applying **clean architecture principles**, especially **Three-Layer Architecture**
+- 🗄️ Strong in **SQL Server programming**, including database design, stored procedures, and query optimization
+- 💾 Worked extensively with **ADO.NET**, **Entity Framework**, and **LINQ**
+- 🖥 Also experienced in **Full-Stack Desktop Application Development** using **.NET Framework** and **Windows Forms**
+- 🎓 Final-year student majoring in **Information Technology**, passionate about creating real-world solutions with Microsoft technologies
+
 
 ---
 
