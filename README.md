@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Abdullah Bawazir</h1>
+<h1 align="center">Hi 👋 I'm Abdullah Bawazeer</h1>
 
 <p align="center">
 🎓 Final-year Information Technology student specializing in <strong>Back-End Development with .NET Core</strong>, and experienced in <strong>Full-Stack Desktop Application Development using .NET Framework</strong>. Strong skills in database programming, software architecture, and building real-world systems.
