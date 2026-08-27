@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Abdullah Bawazeer</h1>
 
-🎓 I'm a final-year IT student with a strong focus on Back-End Development using .NET Core (Web API), and Full-Stack Desktop Application Development using .NET Framework. Skilled in SQL Server, database design, and clean application architecture with ADO.NET, Entity Framework, and LINQ.
+🎓 I'm Back end  and Mobile Developer with a strong focus on Back-End Development using .NET Core (Web API), and Full-Stack Desktop Application Development using .NET Framework. Skilled in SQL Server, database design, and clean application architecture with ADO.NET, Entity Framework, and LINQ.
 
 ---
 
